@@ -55,5 +55,5 @@
 
 <br/>
 <div align="center">
-  <i>"คุณภาพของซอฟต์แวร์ เริ่มต้นที่วินัยของตัวเราเอง"</i>
+  <i>"Software quality begins with self-discipline."</i>
 </div>
