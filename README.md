@@ -32,11 +32,9 @@ I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.
   <img src="https://images.credly.com/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" alt="AWS Academy Graduate" width="120" />
 </a>
 
-<br/><br/>
-
 <a href="https://www.credly.com/badges/ea4573d0-735e-4579-a7fa-9f49857a8d05">AWS Academy Graduate - Cloud Architecting</a><br/>
 <i>Issued: October 20, 2025</i>
 
-<br/><br/>
+<br/>
 
 </div>
