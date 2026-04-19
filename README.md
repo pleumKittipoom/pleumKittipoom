@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pleumKittipoom/pleumKittipoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+a+Computer+Engineering+Graduate;I'm+a+Full+Stack+Developer;Passionate+about+Cloud+Native+and+DevOps" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <u>About Me</u>
+
+I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.94). I have hands-on experience in **full-stack web development, microservices, and database optimization**[cite: 137]. Currently, I am highly motivated to deliver high-quality solutions and am actively seeking **Full Stack Developer** opportunities to contribute to and grow within a dynamic team[cite: 138].
+
+<br/>
+<hr style="width:80%; margin:auto;">
+<br/>
+
+### <u>Tech Stack & Tools</u>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,react,nextjs,nodejs,nestjs,laravel,mysql,postgres,mongodb,git,docker,aws" alt="My Skills" />
+</a>
+
+<br/><br/>
+<hr style="width:80%; margin:auto;">
+<br/>
+
+### <u>Certifications</u>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="70" />
+
+<br/><br/>
+
+**AWS Academy Graduate - Cloud Architecting** <br/>
+*Top Gun Rally 18th (KU) & Excellent Academic Performance (RMUTT)* 
+
+<br/><br/>
+
+</div>
