@@ -18,9 +18,7 @@ I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.
 
 <br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,react,nextjs,nodejs,nestjs,laravel,mysql,postgres,mongodb,git,docker,aws" alt="My Skills" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,java,react,nextjs,nodejs,nestjs,laravel,mysql,postgres,mongodb,git,docker,aws" alt="My Skills" />
 
 <br/><br/>
 <hr style="width:80%; margin:auto;">
@@ -30,12 +28,14 @@ I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="70" />
+<a href="https://www.credly.com/badges/ea4573d0-735e-4579-a7fa-9f49857a8d05">
+  <img src="https://images.credly.com/size/340x340/images/b9ebbcbe-7476-47b1-ba2c-29d01243577d/twitter_thumb_201604_image.png" alt="AWS Academy Graduate" width="120" />
+</a>
 
 <br/><br/>
 
-**AWS Academy Graduate - Cloud Architecting** <br/>
-*Top Gun Rally 18th (KU) & Excellent Academic Performance (RMUTT)* 
+<a href="https://www.credly.com/badges/ea4573d0-735e-4579-a7fa-9f49857a8d05">AWS Academy Graduate - Cloud Architecting</a><br/>
+<i>Issued: [เดือน ปีที่ได้รับ]</i>
 
 <br/><br/>
 
