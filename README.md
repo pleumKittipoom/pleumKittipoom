@@ -8,7 +8,7 @@
 
 ### <u>About Me</u>
 
-I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.94). I have hands-on experience in **full-stack web development, microservices, and database optimization**[cite: 137]. Currently, I am highly motivated to deliver high-quality solutions and am actively seeking **Full Stack Developer** opportunities to contribute to and grow within a dynamic team[cite: 138].
+I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.94). I have hands-on experience in **full-stack web development, microservices, and database optimization**. Currently, I am highly motivated to deliver high-quality solutions and am actively seeking **Full Stack Developer** opportunities to contribute to and grow within a dynamic team.
 
 <br/>
 <hr style="width:80%; margin:auto;">
