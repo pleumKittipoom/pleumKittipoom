@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+a+Computer+Engineering+Graduate;I'm+a+Full+Stack+Developer;Passionate+about+Cloud+Native+and+DevOps" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 ### <u>About Me</u>
 
@@ -20,7 +20,7 @@ I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.
 
 <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,react,nextjs,nodejs,nestjs,laravel,mysql,postgres,mongodb,git,docker,aws" alt="My Skills" />
 
-<br/><br/>
+<br/>
 <hr style="width:80%; margin:auto;">
 <br/>
 
@@ -34,7 +34,5 @@ I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.
 
 <a href="https://www.credly.com/badges/ea4573d0-735e-4579-a7fa-9f49857a8d05">AWS Academy Graduate - Cloud Architecting</a><br/>
 <i>Issued: October 20, 2025</i>
-
-<br/>
 
 </div>
