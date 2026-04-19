@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+a+Computer+Engineering+Graduate;I'm+a+Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+a+Computer+Engineering+Graduate;I'm+a+Full+Stack+Developer;Passionate+about+Cloud+Native+and+DevOps" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@ I am a recent **Computer Engineering graduate** with First-Class Honors (GPA: 3.
 <br/>
 
 <a href="https://www.credly.com/badges/ea4573d0-735e-4579-a7fa-9f49857a8d05">
-  <img src="https://images.credly.com/size/340x340/images/2232145b-b996-419b-abfc-f7fbdfae03cc/aws-academy-cloud-architecting.png" alt="AWS Academy Graduate" width="120" />
+  <img src="[https://images.credly.com/size/340x340/images/2232145b-b996-419b-abfc-f7fbdfae03cc/aws-academy-cloud-architecting.png](https://images.credly.com/size/680x680/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob)" alt="AWS Academy Graduate" width="120" />
 </a>
 
 <br/><br/>
